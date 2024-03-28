@@ -1,0 +1,14 @@
+D:\for github\SymbolRows\SymbolRows\bin\Debug\net8.0\SymbolRows.exe
+D:\for github\SymbolRows\SymbolRows\bin\Debug\net8.0\SymbolRows.deps.json
+D:\for github\SymbolRows\SymbolRows\bin\Debug\net8.0\SymbolRows.runtimeconfig.json
+D:\for github\SymbolRows\SymbolRows\bin\Debug\net8.0\SymbolRows.dll
+D:\for github\SymbolRows\SymbolRows\bin\Debug\net8.0\SymbolRows.pdb
+D:\for github\SymbolRows\SymbolRows\obj\Debug\net8.0\SymbolRows.GeneratedMSBuildEditorConfig.editorconfig
+D:\for github\SymbolRows\SymbolRows\obj\Debug\net8.0\SymbolRows.AssemblyInfoInputs.cache
+D:\for github\SymbolRows\SymbolRows\obj\Debug\net8.0\SymbolRows.AssemblyInfo.cs
+D:\for github\SymbolRows\SymbolRows\obj\Debug\net8.0\SymbolRows.csproj.CoreCompileInputs.cache
+D:\for github\SymbolRows\SymbolRows\obj\Debug\net8.0\SymbolRows.dll
+D:\for github\SymbolRows\SymbolRows\obj\Debug\net8.0\refint\SymbolRows.dll
+D:\for github\SymbolRows\SymbolRows\obj\Debug\net8.0\SymbolRows.pdb
+D:\for github\SymbolRows\SymbolRows\obj\Debug\net8.0\SymbolRows.genruntimeconfig.cache
+D:\for github\SymbolRows\SymbolRows\obj\Debug\net8.0\ref\SymbolRows.dll
